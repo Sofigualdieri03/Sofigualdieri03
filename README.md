@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
+
 ## 👋 Hola, soy Sofía
 
 🎓 Estudiante de Sistemas
@@ -7,7 +11,6 @@
 🧠 Sobre mí
 Estoy formándome como desarrolladora, enfocándome en entender bien la lógica antes de escalar a proyectos más complejos.
 Me interesa crear aplicaciones completas conectando frontend y backend.
-
 
 
 
