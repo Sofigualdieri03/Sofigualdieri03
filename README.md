@@ -8,10 +8,12 @@
 
 Estoy formándome como desarrolladora, enfocándome en entender bien la lógica antes de escalar a proyectos más complejos.
 Me interesa crear aplicaciones completas conectando frontend y backend.
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 
 🛠️ Tecnologías que estoy usando
-##### Languages I use
-
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
@@ -20,15 +22,14 @@ Me interesa crear aplicaciones completas conectando frontend y backend.
 
 🔧 Git & GitHub
 📚 Actualmente aprendiendo
+
 Componentes y estado en React
 Consumo de APIs (fetch)
 Backend con Node.js y Express
 Integración frontend + backend
 🚧 Proyectos
 
-🔹 (acá después podés agregar links a tus repos, ejemplo:)
 
-Sistema de turnos (en progreso)
 Prácticas con React
 API de inventores
 📫 Contacto
@@ -36,7 +37,6 @@ API de inventores
 ✨ Objetivo
 
 Seguir creciendo como desarrolladora y construir proyectos cada vez más completos 🚀
-
 <!--
 **Sofigualdieri03/Sofigualdieri03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
