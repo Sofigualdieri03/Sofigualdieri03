@@ -5,11 +5,14 @@
 🚀 Construyendo mis primeros proyectos con React y Node.js
 
 🧠 Sobre mí
-
 Estoy formándome como desarrolladora, enfocándome en entender bien la lógica antes de escalar a proyectos más complejos.
 Me interesa crear aplicaciones completas conectando frontend y backend.
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+
+
+
+<a target="_blank" align="right">
+       <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 
@@ -20,7 +23,6 @@ Me interesa crear aplicaciones completas conectando frontend y backend.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-🔧 Git & GitHub
 📚 Actualmente aprendiendo
 
 Componentes y estado en React
